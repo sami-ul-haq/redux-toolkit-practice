@@ -5,5 +5,5 @@
 ### createSlice, createAction, createReducer, createAsyncThunk, createApi
 
 
-## Deplyed Link [Click Here To See]()
+## Deplyed Link [Click Here To See](https://redux-toolkit-practice.netlify.app/)
 
